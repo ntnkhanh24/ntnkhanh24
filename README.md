@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Khanh Nguyen
-- 👀 I’m interested in learning/ex;oring new things in life.
+- 👀 I’m interested in learning/exploring new things in life.
 - 🌱 I’m currently learning Text Analytics.
-- 💞️ I’m looking to find an Machine learning internship position at a big corp like Amazon.
+- 💞️ I’m looking for a Machine learning internship at a big corporation.
 - 📫 Reach me @ ntnkhanh24@gmail.com
 
 <!---
